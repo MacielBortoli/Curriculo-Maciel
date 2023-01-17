@@ -10,8 +10,8 @@
 	--text-color: #727171;
 }
 html {
-	scroll-behavior: smooth;
 	font-size: 10px;
+	scroll-behavior: smooth;
 }
 body {
 	font-family: Inter, sans-serif;
